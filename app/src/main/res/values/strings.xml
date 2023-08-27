@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Words8000</string>
+    <string name="action_settings">Open</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Words 8000</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="once_more">Tap the Back button again to exit the app.</string>
+    <string name="play_img">Play</string>
+    <string name="pause_img">Pause</string>
+    <string name="loop_begin">Previous</string>
+    <string name="loop_end">Next</string>
+    <string name="reset">Replay</string>
+
+</resources>
